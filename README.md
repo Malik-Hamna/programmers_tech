@@ -13,4 +13,9 @@ A quiz application featuring multiple-choice questions and score tracking.
 **4. Chat Bot Desktop App**
 A desktop chat bot with a server-client architecture, capable of handling multiple clients through multi-threading.
 
+Contributions are welcome! Please fork this repository and submit a pull request with your improvements or features.
+
+**License**
+This project is licensed under the MIT License.
+
 # programmers_tech
